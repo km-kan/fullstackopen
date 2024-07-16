@@ -4,7 +4,7 @@ The following repository contains my submissions for the 2024 [Fullstackopen](ht
 
 ## Completion
 - [x] Part 0: Fundamentals of Web apps
-- [ ] Part 1: Introduction to React
+- [x] Part 1: Introduction to React
 - [ ] Part 2: Communicating with server
 - [ ] Part 3: Programming a server with NodeJS and Express
 - [ ] Part 4: Testing Express servers, user administration
